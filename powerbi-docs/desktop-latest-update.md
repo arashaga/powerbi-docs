@@ -42,7 +42,7 @@ The following updates are new to **Power BI Desktop** this month:
 ### Analytics
 * Drillthrough across reports [[video]](https://youtu.be/vih35kSrEHU?t=567)  [[article]](desktop-cross-report-drill-through.md)  [[blog]](https://powerbi.microsoft.com/blog/power-bi-desktop-april-2019-feature-summary/#drillthrough) 
 * Key Influencers visual now supports continuous analysis for numeric targets [[video]](https://youtu.be/vih35kSrEHU?t=753)  [[blog]](https://powerbi.microsoft.com/blog/power-bi-desktop-april-2019-feature-summary/#keyInfluencers) 
-* Python support not generally available [[video]](https://youtu.be/vih35kSrEHU?t=889)  [[blog]](https://powerbi.microsoft.com/blog/power-bi-desktop-april-2019-feature-summary/#python) 
+* Python support now is generally available [[video]](https://youtu.be/vih35kSrEHU?t=889)  [[blog]](https://powerbi.microsoft.com/blog/power-bi-desktop-april-2019-feature-summary/#python) 
 * Partial synonym matching for terms in Q&A [[video]](https://youtu.be/vih35kSrEHU?t=912)  [[blog]](https://powerbi.microsoft.com/blog/power-bi-desktop-april-2019-feature-summary/#partialMatching) 
 
 
